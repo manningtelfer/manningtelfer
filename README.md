@@ -1,4 +1,4 @@
-### Hi there, i'm Manning - aka [manning.telfer] 👋
+### Hi there, i'm Manning - aka [manningtelfer] 👋
 
 ## I'm an IT Administrator, amateur web developer, gamer and *always* a student!
 - 💼 I'm currently working at MHIA Insurance[mhia]
