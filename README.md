@@ -24,7 +24,7 @@
 <br />
 
 [MHIA Insurance]: https://github.com/MHIA-Insurance
-[linkedin]: https://linkedin.com/in/manningtelfer
+[linkedin]: https://linkedin.com/in/manningtelfer/
 [github]: https://github.com/manningtelfer
 [webvscode]: https://code.visualstudio.com/
 [webhtml]: https://en.wikipedia.org/wiki/HTML5
