@@ -1,4 +1,4 @@
-## Hi, i'm [Manning][github] 👋 I'm amateur web developer, gamer and *always* a student!
+## Hi, I'm Manning👋 I'm amateur web developer, gamer and *always* a student!
 - 💼 I'm currently working at [MHIA Insurance]
 - 🌱 I'm currently learning Javascript and PHP
 - 🥅 2021 goals: Contribute to more projects, right here on GitHub
