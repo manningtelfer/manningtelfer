@@ -1,9 +1,8 @@
-### Hi there, i'm Manning - aka [manningtelfer][github] 👋
-
-## I'm an IT Administrator, amateur web developer, gamer and *always* a student!
+## Hi, i'm [Manning][github] 👋 I'm amateur web developer, gamer and *always* a student!
 - 💼 I'm currently working at [MHIA Insurance]
 - 🌱 I'm currently learning Javascript and PHP
 - 🥅 2021 goals: Contribute to more projects, right here on GitHub
+- 😄 Pronouns: he/him
 - ⚡ I'm always looking to grow and try out new things!
 
 ### Languages & Tools:
