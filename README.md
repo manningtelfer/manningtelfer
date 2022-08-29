@@ -1,7 +1,7 @@
 ## Hi, I'm Manning 👋 I'm a front-end web developer, gamer and *always* a student!
 - 💼 I'm currently working at [MHIA Insurance]
 - 🌱 I'm currently learning Javascript and PHP
-- 🥅 2021 goals: Contribute to more projects, right here on GitHub
+- 🥅 Current goals: Contribute to more projects, right here on GitHub
 - 😄 Pronouns: he/him
 - ⚡ I'm always looking to grow and try out new things!
 
