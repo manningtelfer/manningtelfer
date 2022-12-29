@@ -18,7 +18,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="manning.telfer" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="manning.telfer" width="25px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />][linkedin]
 <br />
 
 ### My GitHub Stats
