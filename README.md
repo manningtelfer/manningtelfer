@@ -22,7 +22,7 @@
 <br />
 
 ### My GitHub Stats
-<a href="http://www.github.com/manningtelfer"><img src="https://github-readme-stats.vercel.app/api?username=manningtelfer&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=0f172a&icon_color=64748b&bg_color=f7f7f7&hide_border=true&show_icons=true" alt="manningtelfer's GitHub stats" /></a>
+<a href="http://www.github.com/manningtelfer"><img src="https://github-readme-stats.vercel.app/api?username=manningtelfer&show_icons=true&hide=stars,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=64748b&bg_color=0f172a&hide_border=true&show_icons=true" alt="manningtelfer's GitHub stats" /></a>
 
 <br />
 <br />
