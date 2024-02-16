@@ -1,4 +1,4 @@
-## Hi, I'm Manning ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a front-end web developer, gamer and *always* a student!
+## Hi, I'm Manning ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a front-end web developer.
 - 🌍 I'm based in NSW, Australia
 - 💼 I'm currently working at [MHIA Insurance]
 - 🌱 I'm currently learning Javascript and PHP
